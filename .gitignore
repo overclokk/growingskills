@@ -1,0 +1,16 @@
+#Git files
+.git
+
+#Grunt developer
+node_modules
+
+
+#File di bower
+bower_components
+
+#File della cartella di destinazione
+#Prova a crearli tu con grunt build
+dest/css
+dest/img
+dest/js
+dest/index.html

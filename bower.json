@@ -1,0 +1,20 @@
+{
+  "name": "growingskills",
+  "version": "1.0.0",
+  "authors": [
+    "Enea Overclokk <info@overclokk.net>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.4",
+    "font-awesome": "~4.3.0",
+    "bootstrap": "~3.3.4"
+  }
+}
