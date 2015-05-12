@@ -1,11 +1,15 @@
 # Growing Skills [7formazione](http://www.gtmasterclub.it/eventi/2015/settimana-della-formazione-growing-skills) #
 
-## Minicorso sull'utilizzo di Grunt + Bower per la Settimana della Formazione di GTIdea del 12-05-2015 ##
+## Minicorso sull'utilizzo di Grunt + Bower per la [Settimana della Formazione di GTIdea del 12-05-2015](http://www.gtmasterclub.it/eventi/2015/settimana-della-formazione-growing-skills) ##
 
 **Relatore:** [Enea Overclokk](http://www.overclokk.net)
+
 **Googleplus:** [Enea Overclokk](https://plus.google.com/111124441216688020313)
+
 **Twitter:** @overclokk (ma lo uso veramente poco)
+
 **Sito Web:** [overclokk.net](http://www.overclokk.net)
+
 **Progetto ItalyStrap:** [ItalyStrap](http://www.italystrap.it)
 
 ## Getting started ##
